@@ -1,5 +1,4 @@
 <?php
 session_start();
 echo "Hello, world";
-echo "Hello, git";
-
+>>>>>>> 3c89562... Adding new line feature
